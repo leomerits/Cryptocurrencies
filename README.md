@@ -19,13 +19,13 @@ The overview of this analysis is a deeper dive into machine learning using unsup
 ## Standardized with SatandardScaler
 ![image](https://user-images.githubusercontent.com/34757498/150722051-31e5ceb8-66df-4a04-a0de-d7c4e3df24e9.png)
 
-# DataFrame with three principle components
+## DataFrame with three principle components
 ![image](https://user-images.githubusercontent.com/34757498/150722211-8cd71a57-c3d6-4d56-a6a5-9db0621aa94e.png)
 
 ## Elbow Curve
 ![image](https://user-images.githubusercontent.com/34757498/150722377-0870a9f7-05a6-4a4e-a26d-ece3caea8824.png)
 
-## #D Scateer with PCA data and the clusters
+## D3 Scateer with PCA data and the clusters
 ![image](https://user-images.githubusercontent.com/34757498/150722558-dadb54c3-f93e-4730-a3f7-0ce774c31a90.png)
 
 ## Table of Tradable currencies
