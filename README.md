@@ -7,10 +7,10 @@ The overview of this analysis is a deeper dive into machine learning using unsup
 - Softwar: Jupyter Notebook.
 
 # Results:
-## original Dataset
+## Original Dataset
 ![image](https://user-images.githubusercontent.com/34757498/150721510-f6869d5c-b757-42a9-95cf-35cb41aceaca.png)
 
-## cryptocurrencies that have a working algorithm
+## Cryptocurrencies that have a working algorithm
 ![image](https://user-images.githubusercontent.com/34757498/150721712-fb123c5b-92b4-471f-b228-2d7116287389.png)
 
 ## Dataset withouth the CoinName column
