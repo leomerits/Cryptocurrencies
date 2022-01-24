@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Resource and Module Folder
+Module
+Resources
+crypto_data.csv
+
 # C extensions
 *.so
 
